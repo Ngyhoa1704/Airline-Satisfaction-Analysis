@@ -1,7 +1,6 @@
 # Airline Satisfaction Analysis
 
-For viewing my thought process, how I handled/solved the project please access the Google Docs link below:
-https://docs.google.com/document/d/15psBvlZlFtRhjopkNLYaYtvWdhbeG9W5Aq-h2ZgwhVM/edit?tab=t.0 
+For viewing my thought process, how I handled/solved the project please access the PDF file provided above
 
 ## 1. Project Introduction
 Airline customer satisfaction is a critical performance indicator in the aviation industry. In this project, we examine a dataset comprising over 120,000 survey responses from airline passengers. The airline in question, headquartered in Boston, Massachusetts, reported a historical low in satisfaction rates—falling below 50% for the first time. Each survey includes demographic details, flight-related variables, and evaluations of various service dimensions rated on a 1–5 Likert scale.
