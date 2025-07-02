@@ -116,7 +116,8 @@ Since the analysis reveals **five key overlapping dissatisfaction drivers** acro
 
 …it is both **strategic and cost-effective** to focus on **shared, system-wide improvements** that elevate the experience for all passengers, while maintaining flexibility to scale or tier service where necessary.
 
-**In-Flight Wi-Fi Service**:
+**1. In-Flight Wi-Fi Service**:
+
 **Problem:**  Passengers across all classes rate in-flight Wi-Fi poorly, likely due to limited speed, high pricing, or unreliable connectivity.
 
 **Recommendation:**
@@ -130,7 +131,8 @@ Since the analysis reveals **five key overlapping dissatisfaction drivers** acro
 
 **Rationale:** Improves perceived value in Economy; restores premium positioning in Business, while remaining cost-manageable.
 
-**In-Flight Entertainment (IFE)**
+**2. In-Flight Entertainment (IFE)**
+
 **Problem:** Poor content variety, outdated interface, or non-personalized options contribute to dissatisfaction.
 
 **Recommendation:**
@@ -141,7 +143,8 @@ Since the analysis reveals **five key overlapping dissatisfaction drivers** acro
 
 **Rationale:** Lowers capital expenditure by avoiding new seatback installations, improves engagement across all segments, and provides Business Class with deeper content access without exclusive infrastructure.
 
-**Online Booking Experience**
+**3. Online Booking Experience**
+
 **Problem:** Passengers find the booking interface unintuitive or slow, especially on mobile.
 
 **Recommendation:**
@@ -151,7 +154,8 @@ Since the analysis reveals **five key overlapping dissatisfaction drivers** acro
 
 **Rationale:** A single optimized platform benefits all users while enhancing clarity around fare options and upgrades.
 
-**Online Check-in / Boarding**
+**4. Online Check-in / Boarding**
+
 **Problem:** Online boarding processes are inconsistent or poorly integrated with airport systems.
 
 **Recommendation:**
@@ -162,7 +166,8 @@ Since the analysis reveals **five key overlapping dissatisfaction drivers** acro
 
 **Rationale:** A streamlined boarding process improves operational flow and reduces stress across both classes, while allowing premium features to be gradually layered.
 
-**Food and Drink**
+**5. Food and Drink**
+
 **Problem:** Dissatisfaction relates to perceived quality, lack of personalization, and poor value.
 
 **Recommendation:**
